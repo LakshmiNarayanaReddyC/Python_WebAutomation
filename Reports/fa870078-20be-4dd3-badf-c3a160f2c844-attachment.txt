@@ -1,0 +1,4 @@
+[32mINFO    [0m root:Test_LoginVerification.py:17 *************** Test_001_Login *****************
+[32mINFO    [0m root:Test_LoginVerification.py:18 ****Started Home page title test ****
+[32mINFO    [0m root:Test_LoginVerification.py:22 **** Home page title test passed ****
+[32mINFO    [0m root:Test_LoginVerification.py:49 ****Started Login Test****

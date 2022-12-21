@@ -1,0 +1,46 @@
+2022-11-15 20:40:38,265 : INFO :Test_LoginScreen :*************** Test_001_Login *****************
+2022-11-15 20:40:38,265 : INFO :Test_LoginScreen :****Started Home page title test ****
+2022-11-15 20:40:38,266 : INFO :Test_LoginScreen :Welcome web application
+2022-11-15 20:41:12,193 : INFO :Test_LoginScreen :*************** Test_001_Login *****************
+2022-11-15 20:41:12,194 : INFO :Test_LoginScreen :****Started Home page title test ****
+2022-11-15 20:41:12,194 : INFO :Test_LoginScreen :Welcome web application
+2022-11-15 20:44:01,417 : INFO :Test_LoginScreen :*************** Test_001_Login *****************,'w'
+2022-11-15 20:44:01,418 : INFO :Test_LoginScreen :****Started Home page title test ****,'w'
+2022-11-15 20:44:01,418 : INFO :Test_LoginScreen :Welcome web application,'w'
+2022-11-15 20:54:35,035 : INFO :Test_LoginScreen :*************** Test_001_Login *****************
+2022-11-15 20:54:35,035 : INFO :Test_LoginScreen :****Started Home page title test ****
+2022-11-15 20:54:35,036 : INFO :Test_LoginScreen :Welcome web application
+2022-11-15 20:54:40,061 : INFO :Test_LoginScreen :****Started Login Test****
+2022-11-15 20:55:34,106 : INFO :Test_LoginScreen :*************** Test_001_Login *****************
+2022-11-15 20:55:34,106 : INFO :Test_LoginScreen :****Started Home page title test ****
+2022-11-15 20:55:34,107 : INFO :Test_LoginScreen :Welcome web application
+2022-11-15 20:55:38,842 : INFO :Test_LoginScreen :****Started Login Test****
+2022-11-15 20:56:26,377 : INFO :Test_LoginScreen :*************** Test_001_Login *****************
+2022-11-15 20:56:26,377 : INFO :Test_LoginScreen :****Started Home page title test ****
+2022-11-15 20:56:26,377 : INFO :Test_LoginScreen :Welcome web application
+2022-11-15 20:56:28,057 : INFO :Test_LoginScreen :*************** Test_001_Login *****************
+2022-11-15 20:56:28,057 : INFO :Test_LoginScreen :****Started Home page title test ****
+2022-11-15 20:56:28,057 : INFO :Test_LoginScreen :Welcome web application
+2022-11-15 20:56:28,144 : INFO :Test_LoginScreen :****Started Login Test****
+2022-11-15 20:56:54,693 : INFO :Test_LoginScreen :*************** Test_001_Login *****************
+2022-11-15 20:56:54,693 : INFO :Test_LoginScreen :****Started Home page title test ****
+2022-11-15 20:56:54,693 : INFO :Test_LoginScreen :Welcome web application
+2022-11-15 20:56:56,262 : INFO :Test_LoginScreen :****Started Login Test****
+2022-11-15 20:58:12,138 : INFO :Test_LoginScreen :*************** Test_001_Login *****************
+2022-11-15 20:58:12,139 : INFO :Test_LoginScreen :****Started Home page title test ****
+2022-11-15 20:58:12,139 : INFO :Test_LoginScreen :Welcome web application
+2022-11-15 20:59:03,992 : INFO :Test_LoginScreen :*************** Test_001_Login *****************
+2022-11-15 20:59:03,993 : INFO :Test_LoginScreen :****Started Home page title test ****
+2022-11-15 20:59:03,993 : INFO :Test_LoginScreen :Welcome web application
+2022-11-15 20:59:05,600 : INFO :Test_LoginScreen :****Started Login Test****
+2022-11-16 10:56:28,894 : INFO :Test_LoginScreen :*************** Test_001_Login *****************
+2022-11-16 10:56:28,894 : INFO :Test_LoginScreen :****Started Home page title test ****
+2022-11-16 10:56:28,894 : INFO :Test_LoginScreen :Welcome web application
+2022-11-16 10:56:30,480 : INFO :Test_LoginScreen :**** Home page title test passed ****
+2022-11-16 10:56:30,481 : INFO :Test_LoginScreen :****Started Login Test****
+2022-11-16 10:58:40,588 : INFO :Test_LoginScreen :*************** Test_001_Login *****************
+2022-11-16 10:58:40,588 : INFO :Test_LoginScreen :****Started Home page title test ****
+2022-11-16 10:58:40,588 : INFO :Test_LoginScreen :Welcome web application
+2022-11-16 10:58:41,961 : INFO :Test_LoginScreen :**** Home page title test passed ****
+2022-11-16 10:58:41,961 : INFO :Test_LoginScreen :****Started Login Test****
+2022-11-16 10:58:42,586 : INFO :Test_LoginScreen :****Navigate to Dashboard Screen****
